@@ -1,4 +1,9 @@
 # BigData-BigFun
+EN.650.654 Computer Intrusion Detection
+Homework 3
+Jay Chow, Kevin Hamilton, James Ballard
+23rd April 2019
+
 Instructions (60pts)
 This assignment will conduct anomaly detection and  misuse detection using the NSL-KDD dataset that is available at GitHub (https://github.com/defcom17/NSL_KDD). Additional information of this dataset can be found at the website of Lincoln Laboratory (https://www.ll.mit.edu/ideval/data/). Posted with this assignment, a paper analyzing this data set should be helpful to understanding this dataset.
 
